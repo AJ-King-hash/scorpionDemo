@@ -99,7 +99,7 @@ Composer
 
 # 🛠️ Basic Structure
 ```bash
-textscorpfuzzy-demo/
+scorpfuzzy-demo/
 ├── src/
 │   ├── FuzzyDesign/
 │   │   └── Recognizer.php
