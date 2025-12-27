@@ -8,7 +8,7 @@
         "php"
     ],
     "type": "library",
-    "license": "proprietary",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Classifier\\": "Classifier/",
