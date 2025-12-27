@@ -98,6 +98,7 @@ PHP ≥ 8.1
 Composer
 
 # 🛠️ Basic Structure
+```bash
 textscorpfuzzy-demo/
 ├── src/
 │   ├── FuzzyDesign/
@@ -106,6 +107,7 @@ textscorpfuzzy-demo/
 │       └── Classifier.php
 ├── composer.json
 └── README.md
+```
 🧩 Roadmap
 
  Support for more membership functions (Gaussian, Trapezoidal, etc.)
