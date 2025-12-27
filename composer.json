@@ -1,6 +1,6 @@
 {
-    "name": "scorpion/scorpfuzzy",
-    "description": "ScorpionFuzzy",
+    "name": "scorpion/scorpfuzzy-demo",
+    "description": "ScorpionFuzzy To Analysis Your Data",
     "keywords": [
         "laravel",
         "fuzzy",
