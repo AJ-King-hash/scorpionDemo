@@ -121,5 +121,5 @@ For major changes, please open an issue first.
 # 📄 License
 MIT License – use it freely.
 
-Made with ❤️ by scorpion
+Made with ❤️ by Ali Yazan Jahjah
 Happy fuzzifying! 🚀
