@@ -52,7 +52,8 @@ echo $record['final_result'];  // e.g. 120.00 (defuzzified output)
 ```php
 use Classifier\Classifier;
 
-$classifier = Classifier::create('user_id', $apps, 'amount_paid', 'rating')->perform(['bronze', 'silver', 'gold',"Diamond"]);
+$classifier = Classifier::create('user_id', $apps, 'amount_paid', 'rating')
+->perform(['bronze', 'silver', 'gold',"Diamond"]);
 print_r($classifier);
 ```
 # Example Output:
