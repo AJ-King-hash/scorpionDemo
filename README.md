@@ -89,7 +89,7 @@ PHPArray
 ```Bash
 composer require scorpion/scorpfuzzy-demo
 ```
-📋 Requirements
+# 📋 Requirements
 
 PHP ≥ 8.1
 Composer
