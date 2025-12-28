@@ -105,7 +105,7 @@ scorpfuzzy-demo/
 ├── composer.json
 └── README.md
 ```
-🧩 Roadmap
+# 🧩 Roadmap
 
  Support for more membership functions (Gaussian, Trapezoidal, etc.)
  Sugeno inference engine
